@@ -1,5 +1,5 @@
 Desenvolvimento de um Sistema de Ouvidoria utilizando Python integrado com um Banco de Dados MySQL.
-O objetivo deste projeto é criar um Sistema de Ouvidoria utilizando a linguagem de programação Python, com a finalidade de receber e gerenciar feedbacks, sugestões e reclamações dos usuários. Para garantir a eficiência e a escalabilidade do sistema, será integrado um Banco de Dados MySQL para armazenar e gerenciar as informações coletadas.
+O objetivo deste projeto é criar um Sistema de Ouvidoria utilizando a linguagem de programação Python, com a finalidade de receber e gerenciar feedbacks, sugestões e reclamações dos usuários. Para garantir a eficiência e a escalabilidade do sistema, foi integrado um Banco de Dados MySQL para armazenar e gerenciar as informações coletadas.
 
 Principais funcionalidades do Sistema de Ouvidoria:
 
